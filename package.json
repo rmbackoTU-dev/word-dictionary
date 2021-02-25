@@ -1,0 +1,30 @@
+{
+  "name": "word-dictionary",
+  "version": "1.0.0",
+  "description": "A dictionary app similar to fiction dictionary written for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmbackoTU-dev/word-dictionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "example",
+    "commandLine"
+  ],
+  "author": "rmbackoTU-dev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rmbackoTU-dev/word-dictionary/issues"
+  },
+  "homepage": "https://github.com/rmbackoTU-dev/word-dictionary#readme",
+  "dependencies": {
+    "commander": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
